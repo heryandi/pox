@@ -15,3 +15,5 @@ ext/*
 pox/lib/pxpcap/pxpcap_c/build
 pox/lib/pxpcap/pxpcap_c/WpdPack
 pypy/
+dist/
+pox.egg-info/
