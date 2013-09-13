@@ -14,4 +14,8 @@ setup(
     install_requires=[
         'distribute'
     ],
+    classifiers=[
+        'OpenFlow :: Controller',
+    ],
+    keywords='OpenFlow controller networking SDN'
 )
